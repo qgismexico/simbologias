@@ -1,4 +1,4 @@
-### ***SIMBOLOGÍA PARA LA CLASIFICACIÓN DE HUMEDALES UTILIZANDO QGIS***
+### ***SIMBOLOGÍA PARA LA CLASIFICACIÓN DE HUMEDALES UTILIZANDO #QGIS***
 ### Datos fuente: Información geográfica de la Comisión para la cooperación Ambiental de Norteamérica
 ### Recurso de archivos fuente en línea: 
 ### http://www.cec.org/es/herramientas-y-recursos/archivos-cartogr%C3%A1ficos/humedales
@@ -9,7 +9,7 @@
 
 #Paso 1. Descarga el archivo humedales.qml (https://github.com/qgismexico/simbologias/blob/master/humedales.qml)
 
-#Paso 2. En QGIS carga la capa de información tipo raster
+#Paso 2. En #QGIS carga la capa de información tipo raster
 
 #Paso 3. En propiedades de la capa -> Estilo -> en la parte inferior Estilo -> Cargar estilo -> selecciona el archivo humedales.qml
 
