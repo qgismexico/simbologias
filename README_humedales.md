@@ -5,7 +5,13 @@
 ### http://www.cec.org/es/es/sites/default/files/Atlas/Files/Wetlands/Wetlands_IMG.zip
 ### http://www.cec.org/es/es/sites/default/files/Atlas/Files/Wetlands/Wetlands_GRID.zip
 
-Paso 0. Descomprime el archivo raster de humedales
-Paso 1. Descarga el archivo humedales.qml (aquí)
-Paso 2. En QGIS carga la capa de información tipo raster
-Paso 3. En propiedades de la capa -> Estilo -> en la parte inferior Estilo -> Cargar estilo -> selecciona el archivo humedales.qml
+#Paso 0. Descomprime el archivo raster de humedales
+
+#Paso 1. Descarga el archivo humedales.qml (aquí)
+
+#Paso 2. En QGIS carga la capa de información tipo raster
+
+#Paso 3. En propiedades de la capa -> Estilo -> en la parte inferior Estilo -> Cargar estilo -> selecciona el archivo humedales.qml
+
+#Paso 4. Tomá un rica taza de café :-)
+
