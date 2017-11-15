@@ -7,7 +7,7 @@
 
 #Paso 0. Descomprime el archivo raster de humedales
 
-#Paso 1. Descarga el archivo humedales.qml (aquí)
+#Paso 1. Descarga el archivo humedales.qml (https://github.com/qgismexico/simbologias/blob/master/humedales.qml)
 
 #Paso 2. En QGIS carga la capa de información tipo raster
 
