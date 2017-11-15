@@ -13,5 +13,5 @@
 
 #Paso 3. En propiedades de la capa -> Estilo -> en la parte inferior Estilo -> Cargar estilo -> selecciona el archivo humedales.qml
 
-#Paso 4. Tomá un rica taza de café :-)
+#Paso 4. Toma un rica taza de café :-)
 
