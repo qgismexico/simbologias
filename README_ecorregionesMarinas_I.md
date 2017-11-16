@@ -7,7 +7,7 @@
 
 #Paso 0. Descomprime el archivo vectorial de Ecorregiones Marinas nivel 1
 
-#Paso 1. Descarga el archivo humedales.qml (https://github.com/qgismexico/simbologias/blob/master/humedales.qml)
+#Paso 1. Descarga el archivo humedales.qml (https://github.com/qgismexico/simbologias/blob/master/ecorregionesMarinas_I.qml)
 
 #Paso 2. En #QGIS carga la capa de información tipo vectorial
 
