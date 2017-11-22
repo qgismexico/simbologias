@@ -1,0 +1,15 @@
+0 = NULL
+1 2 = 5 Coniferous forest
+3 = 12 Tropical or subtropical forest
+4 5 = 4 Deciduous forest
+6 = 6 Mixed forest and wet land
+7 8 = 13 Savannah
+9 10 = 3 Range-grassland
+11 thru 13 = 10 Tundra
+14 = 8 Marsh or wet land
+15 = 2 Agriculture
+16 = 9 Desert
+17 = 1 Urban land
+18 = 7 Water
+19 = 11 Permanent ice
+
